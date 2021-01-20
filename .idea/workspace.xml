@@ -1,8 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0fc6b7b-512f-489b-a3a8-2dda3c2db988" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="e0fc6b7b-512f-489b-a3a8-2dda3c2db988" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-demo-one.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-demo-one.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/META-INF/Spring-demo-one.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/BaseballCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/BaseballCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/Coach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/Coach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/HelloSpringApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/HelloSpringApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/MyApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/MyApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/TrackCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/TrackCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/footballcoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/footballcoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/BaseballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/HelloSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/HelloSpringApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/MyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/footballcoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/footballcoach.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,28 +59,28 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YFC6TiOyBEAO8iWd7ppJvUABY5" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.luv2code.springdemo" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="HelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -83,10 +120,49 @@
       <workItem from="1583301697944" duration="1303000" />
       <workItem from="1604365057165" duration="182000" />
       <workItem from="1604508774905" duration="1268000" />
+      <workItem from="1607075284834" duration="1345000" />
+      <workItem from="1611152423570" duration="4644000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="243" key="#com.intellij.ide.util.MemberChooser" timestamp="1611156591212">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="243" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1611156591212" />
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom" timestamp="1611156384955">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1611156384955" />
+    <state width="1877" height="288" key="GridCell.Tab.0.center" timestamp="1611156384955">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1611156384955" />
+    <state width="1877" height="288" key="GridCell.Tab.0.left" timestamp="1611156384955">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1611156384955" />
+    <state width="1877" height="288" key="GridCell.Tab.0.right" timestamp="1611156384955">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1611156384955" />
+    <state x="440" y="114" key="SettingsEditor" timestamp="1611152806506">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1611152806506" />
   </component>
 </project>
