@@ -20,25 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0fc6b7b-512f-489b-a3a8-2dda3c2db988" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/CricketCoach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/SetterDemoApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/sport.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/CricketCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/SetterDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sport.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-demo-one.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-demo-one.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/META-INF/Spring-demo-one.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/BaseballCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/BaseballCoach.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/Coach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/Coach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/FortuneService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/FortuneService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/HappyFortuneService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/HappyFortuneService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/HelloSpringApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/HelloSpringApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/MyApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/MyApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/TrackCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/TrackCoach.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/footballcoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring-demo-one/com/luv2code/springdemo/footballcoach.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/BaseballCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/Coach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/HelloSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/HelloSpringApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/MyApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/footballcoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/footballcoach.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YFC6TiOyBEAO8iWd7ppJvUABY5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -75,14 +75,26 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.luv2code.springdemo" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SetterDemoApp">
     <configuration name="HelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.HelloSpringApp" />
       <module name="Spring-demo-one" />
@@ -96,8 +108,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SetterDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.SetterDemoApp" />
+      <module name="Spring-demo-one" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SetterDemoApp" />
         <item itemvalue="Application.HelloSpringApp" />
       </list>
     </recent_temporary>
@@ -133,7 +159,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
