@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0fc6b7b-512f-489b-a3a8-2dda3c2db988" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/beanLifecycle-applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/BeanLifeCycleDemoApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-demo-one.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-demo-one.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/TrackCoach.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +60,7 @@
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -161,7 +157,7 @@
       <workItem from="1611152423570" duration="4644000" />
       <workItem from="1611225433916" duration="3514000" />
       <workItem from="1611312125115" duration="1188000" />
-      <workItem from="1611313339108" duration="1817000" />
+      <workItem from="1611313339108" duration="5645000" />
     </task>
     <servers />
   </component>
@@ -185,26 +181,34 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="765" y="243" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1611156591212" />
-    <state width="1877" height="288" key="GridCell.Tab.0.bottom" timestamp="1611243927828">
+    <state x="740" y="324" key="FileChooserDialogImpl" timestamp="1611325138906">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1611243927828" />
-    <state width="1877" height="288" key="GridCell.Tab.0.center" timestamp="1611243927828">
+    <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1611325138906" />
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom" timestamp="1611325343744">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1611243927828" />
-    <state width="1877" height="288" key="GridCell.Tab.0.left" timestamp="1611243927828">
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1611325343744" />
+    <state width="1877" height="288" key="GridCell.Tab.0.center" timestamp="1611325343744">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1611243927828" />
-    <state width="1877" height="288" key="GridCell.Tab.0.right" timestamp="1611243927828">
+    <state width="1877" height="288" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1611325343744" />
+    <state width="1877" height="288" key="GridCell.Tab.0.left" timestamp="1611325343744">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="288" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1611243927828" />
-    <state x="440" y="114" key="SettingsEditor" timestamp="1611313138721">
+    <state width="1877" height="288" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1611325343744" />
+    <state width="1877" height="288" key="GridCell.Tab.0.right" timestamp="1611325343744">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="440" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1611313138721" />
+    <state width="1877" height="288" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1611325343744" />
+    <state x="440" y="114" key="SettingsEditor" timestamp="1611321057331">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1611321057331" />
+    <state x="341" y="86" key="new project wizard" timestamp="1611325200186">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="341" y="86" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1611325200186" />
     <state x="586" y="138" key="spring file set editor" timestamp="1611313134628">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

@@ -1,5 +1,5 @@
 
-N	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ï“Ñ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚœÕùÿÿÿÿ
 H
 java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ï“Ñ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚœÕùÿÿÿÿ

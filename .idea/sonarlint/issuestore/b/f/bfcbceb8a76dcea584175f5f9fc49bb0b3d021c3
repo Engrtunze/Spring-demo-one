@@ -1,8 +1,8 @@
 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(–³äÌþÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(÷»››
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ñ»³üÿÿÿÿ
 H
 java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
 Q	java:S125
 "<This block of commented-out lines of code should be removed.(®çéÝ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–³äÌþÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(÷»››
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ñ»³üÿÿÿÿ

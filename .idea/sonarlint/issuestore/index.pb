@@ -21,3 +21,5 @@ T
 $src/beanScope-applicationContext.xml,b\9\b90a522acab9181109451923b857acbb95bee00f
 a
 1src/com/luv2code/springdemo/BeanScopeDemoApp.java,0\a\0a98b48be69b0efb1d715d4cce9322f0fbc61e5f
+e
+5src/com/luv2code/springdemo/BeanLifeCycleDemoApp.java,5\6\568c4895de3743f4f9a1d822559a663cc5001b17
