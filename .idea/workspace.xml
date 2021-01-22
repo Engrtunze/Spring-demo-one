@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0fc6b7b-512f-489b-a3a8-2dda3c2db988" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e0fc6b7b-512f-489b-a3a8-2dda3c2db988" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,6 +156,7 @@
       <workItem from="1611225433916" duration="3514000" />
       <workItem from="1611312125115" duration="1188000" />
       <workItem from="1611313339108" duration="5645000" />
+      <workItem from="1611325552441" duration="95000" />
     </task>
     <servers />
   </component>
@@ -201,17 +200,17 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="288" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1611325343744" />
-    <state x="440" y="114" key="SettingsEditor" timestamp="1611321057331">
+    <state x="440" y="114" key="SettingsEditor" timestamp="1611325647534">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="440" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1611321057331" />
+    <state x="440" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1611325647534" />
     <state x="341" y="86" key="new project wizard" timestamp="1611325200186">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="341" y="86" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1611325200186" />
-    <state x="586" y="138" key="spring file set editor" timestamp="1611313134628">
+    <state x="586" y="138" key="spring file set editor" timestamp="1611325641800">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="586" y="138" key="spring file set editor/0.0.1920.1080@0.0.1920.1080" timestamp="1611313134628" />
+    <state x="586" y="138" key="spring file set editor/0.0.1920.1080@0.0.1920.1080" timestamp="1611325641800" />
   </component>
 </project>
